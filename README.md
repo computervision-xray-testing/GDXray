@@ -8,7 +8,6 @@ As a service to the X-ray testing and Computer Vision communities, we collected 
 
 GDXray includes five groups of images, they can be downloaded from the following links:
 
-- <a href="http://dmery.sitios.ing.uc.cl/images/GDXray/Castings.zip" target="_blank">Castings</a> (314 MB)
 - [Castings](http://dmery.sitios.ing.uc.cl/images/GDXray/Castings.zip) (314 MB)
 - [Welds](http://dmery.sitios.ing.uc.cl/images/GDXray/Welds.zip) <sup>[1](#footnote-1)</sup> (209 MB) 
 - [Baggage](http://dmery.sitios.ing.uc.cl/images/GDXray/Baggages.zip) (3.048 GB)
