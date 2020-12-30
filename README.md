@@ -16,4 +16,4 @@ GDXray includes five groups of images, they can be downloaded from the following
 
 Each group has several series, and each series several X-ray images. For instance, series C0001 contains 72 X-ray images of an aluminum casting (wheel). See the mentioned paper for description.
 
-<a name="footnote-1">1</a>. The X-ray images of group Welds are included in GDXray thanks to the collaboration of Uwe Zscherpel at Institute for Materials Research and Testing (BAM), Berlin.
+<a name="footnote-1">1</a>. The X-ray images of group Welds are included in GDXray thanks to the collaboration of Uwe Zscherpel at [Institute for Materials Research and Testing](http://dir.bam.de/dir.html) (BAM), Berlin.
