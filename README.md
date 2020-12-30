@@ -9,11 +9,11 @@ As a service to the X-ray testing and Computer Vision communities, we collected 
 GDXray includes five groups of images, they can be downloaded from the following links:
 
 - [Castings](http://dmery.sitios.ing.uc.cl/images/GDXray/Castings.zip) (314 MB)
-- [Welds](http://dmery.sitios.ing.uc.cl/images/GDXray/Welds.zip)[^1] (209 MB) 
+- [Welds](http://dmery.sitios.ing.uc.cl/images/GDXray/Welds.zip) <sup>[1](#footnote-1)</sup> (209 MB) 
 - [Baggage](http://dmery.sitios.ing.uc.cl/images/GDXray/Baggages.zip) (3.048 GB)
 - [Nature](http://dmery.sitios.ing.uc.cl/images/GDXray/Nature.zip) (192 MB)
 - [Settings](http://dmery.sitios.ing.uc.cl/images/GDXray/Settings.zip) (73 MB)
 
 Each group has several series, and each series several X-ray images. For instance, series C0001 contains 72 X-ray images of an aluminum casting (wheel). See the mentioned paper for description.
 
-[^1] The X-ray images of group Welds are included in GDXray thanks to the collaboration of Uwe Zscherpel at Institute for Materials Research and Testing (BAM), Berlin.
+<a name="footnote-1">1</a>. The X-ray images of group Welds are included in GDXray thanks to the collaboration of Uwe Zscherpel at Institute for Materials Research and Testing (BAM), Berlin.
